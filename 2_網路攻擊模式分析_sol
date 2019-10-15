@@ -1,0 +1,52 @@
+```
+1. John is analyzing(分析) strange behavior(行為) on computers in his network. He believes there is malware(惡意軟件)
+on the machines. The symptoms(症狀) include(包括) strange behavior that persists(堅持), even if he
+boots the machine(啟動機器) to a Linux Live CD. What is the most likely cause?
+A. Ransomware(勒索)
+B. Boot sector virus(開機病毒)
+C. Rootkit(獲得電腦 root 權限的 kit (軟體工具組))
+D. Key logger(鍵盤側錄程式)
+```
+
+```
+答案:B
+```
+
+```
+56. You are a network security administrator for a bank. You discover that an attacker has
+exploited a flaw in OpenSSL and forced some connections to move to a weak cipher suite
+version of TLS, which the attacker could breach. What type of attack was this?
+A. Disassociation attack
+B. Downgrade attack
+C. Session hijacking
+D. Brute force
+57. When an attacker tries to find an input value that will produce the same hash as a password,
+what type of attack is this?
+A. Rainbow table
+B. Brute force
+C. Session hijacking
+D. Collision attack
+58. Farès is the network security administrator for a company that creates advanced routers
+and switches. He has discovered that his company’s networks have been subjected to a
+series of advanced attacks over a period of time. What best describes this attack?
+A. DDoS
+B. Brute force
+C. APT
+D. Disassociation attack
+59. You are responsible for incident response at Acme Company. One of your jobs is to
+attempt to attribute attacks to a specific type of attacker. Which of the following would
+not be one of the attributes you consider in attributing the attack?
+A. Level of sophistication
+B. Resources/funding
+C. Intent/motivation
+D. Amount of data stolen
+60. John is running an IDS on his network. Users sometimes report that the IDS flags legitimate
+traffic as an attack. What describes this?
+A. False positive
+B. False negative
+C. False trigger
+D. False flag
+```
+```
+
+```
